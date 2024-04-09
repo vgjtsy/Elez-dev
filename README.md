@@ -20,8 +20,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Elez-dev&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
